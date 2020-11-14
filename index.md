@@ -1,4 +1,4 @@
-# Professional Experience
+# Experience
 * * *
 >
 >
@@ -13,7 +13,21 @@
 * SEO, Google Analytics
 * Github
 * Excel, Publisher, Powerpoint, Microsoft Word
+>
+>
+## Past Positions Held
+* * *
+- Customer Success Engineer (IT support)
+- Program Manager
+- Retail Sales Technology Consultant - Telecommunications
+- Corporate Account Executive - Print & Digital Advertising Sales 
+- Call Center Support/Sales Consultant - Telecommunications
+- Program Manager and College Counselor 
+- Substance Abuse Counselor 
 
+>
+>
+## Professional Work Experience
 
 
 ### Customer Success Engineer 
@@ -74,7 +88,7 @@ Reported to Store Manager
 
 
 
-### Corporate Account Executive - Print Advertising Sales 
+### Corporate Account Executive - Print & Digital Advertising Sales 
 ### MSPARK
 09|2014 til 03|2016
 
