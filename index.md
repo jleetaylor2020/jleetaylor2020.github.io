@@ -1,4 +1,4 @@
-
+* * *
 # Professional Experience
 * * *
 
@@ -20,6 +20,7 @@ Reporting to Customer Success Manager and Director of Support.
 * Key liaison between clients and internal teams, with the aim of enhancing customer experience so that everyone gets the most out of Pantheon's
 
 
+
 ### Program Manager 
 ### Community Food Bank of Central Alabama - partner of United Way and Feeding America
 5|2017 til 01|2019
@@ -37,6 +38,7 @@ Reported to the Executive Director as the food donation coordinator completing m
 * Certified as National Diabetes Prevention Program Lifestyle Coach (NDPP)
 
 
+
 ### Retail Sales Technology Consultant 
 ### AT&T Inc.
 04|2016 till 05|2017
@@ -46,6 +48,7 @@ Reported to Store Manager
 * Forumalated key sales strategies to meet KPI and exceeded sales goals by 200% for continual 10 month period both in business and individual sectors
 * Strategized to effectively and quickly learn newest technologies in VOIP/LAN/ NETWORK SETUP/Wireless Home Security and Automation/MOBILE PLATFORMS and Repairs
 * Provided excellent customer support and superb customer retention rate
+
 
 
 ### Corporate Account Executive - Print Advertising Sales 
@@ -59,6 +62,7 @@ Reported to Director of Corporate Accounts
 * Met Weekly Print Deadlines as Required
 
 
+
 ### Telecommunications Call Center Support/Sales Consultant 
 ### AT&T Inc.
 0|2013 til 08|2014
@@ -67,6 +71,7 @@ Reported to Call Center Manager
 * Advanced technology training in LAN/WAP/ETHERNET troubleshooting/ VOIP/LAN NETWORK INTERNET SETUP/Wireless Home Security and Automation/MOBILE  APP PLATFORMS, troubleshoots, and repairs
 * Provided multi-wrap-around customer support  services including: Technical Support (Software/Hardware/WAP/LAN/WLAN/MOBILE/VOIP), Customer billing questions, Strategize to meet/exceed KPI and sales targets, and proivded Retail Sales on a national level call center based in Birmingham, AL.
 * Completed 6 weeks of paid IT Training, Customer Relations, and Sales Training
+
 
 
 ### Program Manager and College Counselor 
@@ -81,6 +86,7 @@ Reported to Dean of Student Services
 * Certified as Licensed Professional Counselor (LPC) and nationally credentialed National Certified Counselor (NCC)
 
 
+
 ### Master's Program Internship 
 ### UAB Hospital
 01|2009 til 08|2010
@@ -93,6 +99,7 @@ Reported to UAB Hospital Manager of Social Work Programs and the University of N
 * Served as an Alabama Counseling Association Junior Board Member
 
 
+
 ### Substance Abuse Counselor 
 ### Huntsville Metro Treatment Center
 08|2007 til 08|2010
@@ -101,6 +108,7 @@ Reported to Executive Director of HMTC
 * Managed 45 person caseload for the treatment of substance abuse and addiction; provided drug screenings, community referrals, 1:1 and group counseling
 * Developed proficiency in Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment, present educational materials, and collaborate with treatment team
 * Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines 
+
 
 
 ## Education
@@ -119,19 +127,20 @@ Certified Licensed Professional Counselor (LPC) and National Certified Counselor
 ### University of North Alabama
 BS - Secondary Education - Concentration: Social Sciences (6-12th Grade)
 Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
-Certificates
+
 
 ## Certifications
 * * *
 
 ### 2019 
-Full Stack Software Developer  - Covalence Academy (Birmingham, AL) - Partial Completion
+Full Stack Software Developer  - Covalence Academy (Birmingham, AL) - Entry Level
 
 ### 2010
 Licensed Professional Counselor - National Board for Certified Counselors
 
 ### 2005
 Secondary Education - Social Sciences - Teacher Certification with Alabama Department of Education
+
 
 ## Skills
 * * *
