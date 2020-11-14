@@ -47,7 +47,7 @@ Reporting to Customer Success Manager and Director of Support.
 ### Community Food Bank of Central Alabama - (United Way and Feeding America)
 5|2017 til 01|2019
 
-Reported to the Executive Director as the food donation coordinator completing multiple duties as needed to advance CFBCA's organizational mission.
+Reported to the Executive Director as the food donation coordinator completing multiple roles to advance CFBCA's organizational mission.
 * Created web design and promotional materials for the donation program; designs a web platform for webinar trainings to donors and distributors
 * Analyzed raw database to create a metric-tracking system,  create infographic designs and visual aid to meet the needs of: grant writing, performance trend tracking, funding requests from private and corporate donors, and monthly reporting to the Board of Directors 
 * Served as project manager to 130 corporate food donor agencies and 67 partner food distributors; Responsible for the coordination of 6.5 million pounds of rescued food annually to the food bank
