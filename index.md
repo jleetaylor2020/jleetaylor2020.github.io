@@ -128,13 +128,14 @@ Reported to Executive Director of HMTC
 * Managed 45 person caseload for the treatment of substance abuse and addiction; provided drug screenings, community referrals, 1:1 and group counseling
 * Developed proficiency in Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment, present educational materials, and collaborate with treatment team
 * Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines 
->
->
+
+
+
 ## Education
 * * *
 
-### 2020 - Expected Graduation 7/2021
-### Career Foundry
+### 2020 - Graduation Date July 2021
+### Career Foundry - Enrolled
 Data Analytics Professional - 8 month | 420 hour project-based curriculum and training program
 
 ### 2019 
@@ -149,8 +150,9 @@ Certified Licensed Professional Counselor (LPC) and National Certified Counselor
 ### University of North Alabama
 BS - Secondary Education - Concentration: Social Sciences (6-12th Grade)
 Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
->
->
+
+
+
 ## Certifications
 * * *
 
