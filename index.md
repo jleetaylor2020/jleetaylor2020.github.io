@@ -13,10 +13,10 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 # Experience
-## 2019-02 til present
-## Customer Success Engineer
 
-## Pantheon Platform
+### 2019-02 til present
+### Customer Success Engineer
+### Pantheon Platform
 
 Provide technical guidance, site reliability, and platform information to Pantheon customers to include: 
 Troubleshoots and problem solves by analyzing php/nginx error log files, php, js, css, html codebase structure/contents, data visuals in New Relic and identifying potential points of failure that might also include sql database for areas of optimization and improvement. 
@@ -31,10 +31,10 @@ Maintain and enhance Customer Relationships
 Provide Drupal/Wordpress CMS expertise to new and existing customer groups.
 Key liaison between clients and internal teams, with the aim of enhancing customer experience so that everyone gets the most out of Pantheon's
 
-# 2017-05 til 2019-01
-# Program Manager 
+### 2017-05 til 2019-01
+### Program Manager 
 
-# Community Food Bank of Central Alabama - partner of United Way and Feeding America
+### Community Food Bank of Central Alabama - partner of United Way and Feeding America
 
 Reported directly to the Executive Director as the food donation coordinator completing multiple duties as needed to advance CFBCA's organizational mission.
 Created web design and promotional materials for the donation program; designs a web platform for webinar trainings to donors and distributors
@@ -49,10 +49,10 @@ Team co-lead grant writer and award winner to $65,000 in grant funding via Walma
 2018 Recipient to $20,000 Grant Performance Award by Feeding America for surpassing and exceeding the national level's performance goal for the year
 Certified as National Diabetes Prevention Program Lifestyle Coach (NDPP)
 
-# 2016-04 til 2017-05
-# Retail Sales Technology Consultant 
+### 2016-04 til 2017-05
+### Retail Sales Technology Consultant 
 
-# AT&T Inc.
+### AT&T Inc.
 
 Reported to Store Manager
 Recognition as a top sales leader ranking in the top 5% of sales in the Southeast Region (2016-2017)
@@ -60,10 +60,10 @@ Exceeded sales goals by 200% for continual 10 month period both in business and 
 Strategized to effectively and quickly learn newest technologies in VOIP/LAN/ NETWORK SETUP/Wireless Home Security and Automation/MOBILE PLATFORMS and Repairs
 Provided excellent customer support and superb customer retention rate
 
-# 2014-09 til 2016-03
-# Corporate Account Executive - Print Advertising Sales
+### 2014-09 til 2016-03
+### Corporate Account Executive - Print Advertising Sales
 
-# MSPARK
+### MSPARK
 
 Reported to Director of Corporate Accounts
 Directed business development, product development, and strategic partnerships alongside a business analytics team to offer cost saving techniques in areas of marketing, digital & printed coupons 
@@ -71,10 +71,10 @@ Managed creative print marketing campaigns in Southeast region for corporations 
 Expanded technology skillset in areas of Predictive Data Analysis, Wordpress and Graphic Designs, Direct Mail Marketing Campaigns, Microsoft Excel tools capable of data tracking and analyzing P&L statements related to the marketing campaign efforts
 Met Weekly Print Deadlines as Required
 
-# 2013-01 til 2014-08
-# Telecommunications Call Center Support/Sales Consultant 
+### 2013-01 til 2014-08
+### Telecommunications Call Center Support/Sales Consultant 
 
-# AT&T Inc.
+### AT&T Inc.
 
 Reported to Call Center Manager
 Advanced technology training in LAN/WAP/ETHERNET troubleshooting/ VOIP/LAN NETWORK INTERNET SETUP/Wireless Home Security and Automation/MOBILE  APP PLATFORMS, troubleshoots, and repairs
@@ -82,10 +82,10 @@ Provided multi-wrap-around customer support  services including: Technical Suppo
 Completed 6 weeks of paid IT Training, Customer Relations, and Sales Training
 
 
-# 2010-08 til 2013-01
-# Program Manager and College Counselor
+### 2010-08 til 2013-01
+### Program Manager and College Counselor
 
-# University of Montevallo
+### University of Montevallo
 
 Reported to Dean of Student Services
 Designed and coordinated new campus wide initiatives for student crisis care and diversity training 
@@ -94,10 +94,10 @@ Provided counseling and support for a base of 2,700 staff and students who were 
 Adhered to all FERPA, HIPAA, ACA guidelines including confidentiality, current licensure, and current liability insurance as a counselor.
 Certified as Licensed Professional Counselor (LPC) and nationally credentialed National Certified Counselor (NCC)
 
-# 2009-01 til 2010-08
-# Master's Program Internship
+### 2009-01 til 2010-08
+### Master's Program Internship
 
-# UAB Hospital
+### UAB Hospital
 
 Reported to UAB Hospital Manager of Social Work Programs and the University of North Alabama Supervising Instructor
 Provided mental health 1:1  and group counseling sessions at the Psychiatric Unit at UAB Hospital; collaborated with psychiatrists, MD, social workers, and nursing staff to assess patients and provide mental health care and crisis triage
@@ -106,10 +106,10 @@ Performed documentation of counseling services and adhered to HIPPAA Confidentia
 Conducted research and provided speaking presentations on numerous counseling topics at the annual Alabama State Conference for Counselors
 Served as an Alabama Counseling Association Junior Board Member
 
-# 2007-08 til 2010-08
-# Substance Abuse Counselor
+### 2007-08 til 2010-08
+### Substance Abuse Counselor
 
-# Huntsville Metro Treatment Center
+### Huntsville Metro Treatment Center
 
 Reported to Executive Director of HMTC
 Managed 45 person caseload for the treatment of substance abuse and addiction; provided drug screenings, community referrals, 1:1 and group counseling
@@ -117,8 +117,9 @@ Developed proficiency in Microsoft Word, Excel, Powerpoint in order to track and
 Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines 
 
 ## Education
-# 2010
-# University of North Alabama
+
+### 2010
+### University of North Alabama
 
 MA - Mental Health Community Counselor - License # C1763A
 Certified Licensed Professional Counselor (LPC) and National Certified Counselor (NCC) 
@@ -129,11 +130,11 @@ BS - Secondary Education - Concentration: Social Sciences (6-12th Grade)
 Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
 Certificates
 
-# 2019
+### 2019
 Full Stack Software Developer  - Covalence Academy (Birmingham, AL)
 
-# 2010
+### 2010
 Licensed Professional Counselor - National Board for Certified Counselors
 
-# 2005
+### 2005
 Secondary Education - Social Sciences - Teacher Certification with Alabama Department of Education
