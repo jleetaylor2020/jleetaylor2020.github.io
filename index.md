@@ -13,21 +13,22 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 # Professional Experience
+* * *
 
 ### Customer Success Engineer | 02/2019 until present
 ### Pantheon Platform
 
 Provide technical guidance, site reliability, and platform information to Pantheon customers to include: 
 Troubleshoots and problem solves by analyzing php/nginx error log files, php, js, css, html codebase structure/contents, data visuals in New Relic and identifying potential points of failure that might also include sql database for areas of optimization and improvement. 
-Additional Duties to include:
-Analyze traffic data using sql query and Excel to review site traffic, identify problem areas such as identify bot/unwanted traffic mitigation techniques.
-Host "Intro to Pantheon" webinars for customers - online format.
-Work with our Engineering team to improve platform usability and stability.
-Contribute to technical documentation
-Assist with testing Pantheon products and tools (i.e. Terminus, Quicksilver)
-Maintain and enhance Customer Relationships
-Provide Drupal/Wordpress CMS expertise to new and existing customer groups.
-Key liaison between clients and internal teams, with the aim of enhancing customer experience so that everyone gets the most out of Pantheon's
+* Additional Duties to include:
+* Analyze traffic data using sql query and Excel to review site traffic, identify problem areas such as identify bot/unwanted traffic mitigation techniques.
+* Host "Intro to Pantheon" webinars for customers - online format.
+* Work with our Engineering team to improve platform usability and stability.
+* Contribute to technical documentation
+* Assist with testing Pantheon products and tools (i.e. Terminus, Quicksilver)
+* Maintain and enhance Customer Relationships
+* Provide Drupal/Wordpress CMS expertise to new and existing customer groups.
+* Key liaison between clients and internal teams, with the aim of enhancing customer experience so that everyone gets the most out of Pantheon's
 
 
 ### Program Manager | 5/2017 until 01/2019
