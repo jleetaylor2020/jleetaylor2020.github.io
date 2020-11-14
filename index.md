@@ -192,21 +192,5 @@ Licensed Professional Counselor - National Board for Certified Counselors
 Secondary Education - Social Sciences - Teacher Certification with Alabama Department of Education
 
 
- <div class="wrapper">
-
-      <section>
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
-        </div>
-
-        {{ content }}
-
-      </section>
-
-    </div>
 
 
