@@ -12,7 +12,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-# Experience
+# Professional Experience
 
 ### Customer Success Engineer | 02/2019 until present
 ### Pantheon Platform
