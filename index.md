@@ -3,8 +3,8 @@
 * * *
 
 ### Customer Success Engineer 
-02/2019 - present
 ### Pantheon Platform
+02|2019 til present
 
 Reporting to Customer Success Manager and Director of Support.
 * Provide technical guidance, site reliability, and platform information to Pantheon customers to include: 
@@ -21,8 +21,8 @@ Reporting to Customer Success Manager and Director of Support.
 
 
 ### Program Manager 
-5/2017 - 01/2019
 ### Community Food Bank of Central Alabama - partner of United Way and Feeding America
+5|2017 til 01|2019
 
 Reported to the Executive Director as the food donation coordinator completing multiple duties as needed to advance CFBCA's organizational mission.
 * Created web design and promotional materials for the donation program; designs a web platform for webinar trainings to donors and distributors
@@ -38,8 +38,8 @@ Reported to the Executive Director as the food donation coordinator completing m
 
 
 ### Retail Sales Technology Consultant 
-04/2016 - 05/2017
 ### AT&T Inc.
+04|2016 till 05|2017
 
 Reported to Store Manager
 * Recognition as a top sales leader ranking in the top 5% of sales in the Southeast Region (2016-2017)
@@ -49,8 +49,8 @@ Reported to Store Manager
 
 
 ### Corporate Account Executive - Print Advertising Sales 
-09/2014 - 03/2016
 ### MSPARK
+09|2014 til 03|2016
 
 Reported to Director of Corporate Accounts
 * Directed business development, product development, and strategic partnerships leading business analytics to offer cost saving techniques in areas of marketing, digital & printed coupons 
@@ -60,8 +60,8 @@ Reported to Director of Corporate Accounts
 
 
 ### Telecommunications Call Center Support/Sales Consultant 
-01/2013 - 08/2014
 ### AT&T Inc.
+0|2013 til 08|2014
 
 Reported to Call Center Manager
 * Advanced technology training in LAN/WAP/ETHERNET troubleshooting/ VOIP/LAN NETWORK INTERNET SETUP/Wireless Home Security and Automation/MOBILE  APP PLATFORMS, troubleshoots, and repairs
@@ -70,8 +70,8 @@ Reported to Call Center Manager
 
 
 ### Program Manager and College Counselor 
-08/2010 - 01/2013
 ### University of Montevallo
+08|2010 til 01|2013
 
 Reported to Dean of Student Services
 * Designed and coordinated new campus wide initiatives for student crisis care and diversity training 
@@ -82,8 +82,8 @@ Reported to Dean of Student Services
 
 
 ### Master's Program Internship 
-01/2009 - 08/2010
 ### UAB Hospital
+01|2009 til 08|2010
 
 Reported to UAB Hospital Manager of Social Work Programs and the University of North Alabama Supervising Instructor
 * Provided mental health 1:1  and group counseling sessions at the Psychiatric Unit at UAB Hospital; collaborated with psychiatrists, MD, social workers, and nursing staff to assess patients and provide mental health care and crisis 
@@ -94,8 +94,8 @@ Reported to UAB Hospital Manager of Social Work Programs and the University of N
 
 
 ### Substance Abuse Counselor 
-08/2007 - 08/2010
 ### Huntsville Metro Treatment Center
+08|2007 til 08|2010
 
 Reported to Executive Director of HMTC
 * Managed 45 person caseload for the treatment of substance abuse and addiction; provided drug screenings, community referrals, 1:1 and group counseling
@@ -104,6 +104,7 @@ Reported to Executive Director of HMTC
 
 
 ## Education
+* * *
 
 ### 2020 - Expected Graduation Date: 7/2021
 ### Career Foundry
@@ -121,6 +122,7 @@ Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
 Certificates
 
 ## Certifications
+* * *
 
 ### 2019 
 Full Stack Software Developer  - Covalence Academy (Birmingham, AL) - Partial Completion
@@ -132,6 +134,7 @@ Licensed Professional Counselor - National Board for Certified Counselors
 Secondary Education - Social Sciences - Teacher Certification with Alabama Department of Education
 
 ## Skills
+* * *
 * Tableau, Big Query, Looker
 * Back-end Web Development
 * Sql/database query, Nodejs
