@@ -18,9 +18,9 @@
 ## Positions Held
 - Customer Success Engineer (IT support)
 - Program Manager
-- Retail Sales Technology Consultant - Telecommunications
+- Retail Sales Technology Consultant - IT | Telecommunications
 - Corporate Account Executive - Print & Digital Advertising Sales 
-- Call Center Support/Sales Consultant - Telecommunications
+- Call Center Support/Sales Consultant - IT | Telecommunications
 - Program Manager and College Counselor 
 - Substance Abuse Counselor 
 
@@ -134,8 +134,8 @@ Reported to Executive Director of HMTC
 ## Education
 * * *
 
-### 2020 - Graduation Date July 2021
-### Career Foundry - Enrolled
+### 2020 
+### Career Foundry - Enrolled - Graduation Date July 2021
 Data Analytics Professional - 8 month | 420 hour project-based curriculum and training program
 
 ### 2019 
