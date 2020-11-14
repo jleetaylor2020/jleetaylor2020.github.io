@@ -125,6 +125,8 @@ BS - Secondary Education - Concentration: Social Sciences (6-12th Grade)
 Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
 Certificates
 
+## Certifications
+
 ### 2019
 Full Stack Software Developer  - Covalence Academy (Birmingham, AL)
 
