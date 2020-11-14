@@ -101,7 +101,7 @@ Reported to Call Center Manager
 
 Reported to Dean of Student Services
 * Designed and coordinated new campus wide initiatives for student crisis care and diversity training 
-* Designed safe zone website, and created new training materials for launch of a new program called Safe Zone; Included: manual design, logo design, mission statement and board member recruitment, social media outreach (Facebook, Twitter, FalconLink)  Link: https://www.montevallo.edu/organization/safe-zone/ 
+* Designed safe zone website, and created new training materials for launch of a new program called Safe Zone; Included: manual design, logo design, mission statement and board member recruitment, social media outreach (Facebook, Twitter, FalconLink)  Link: [https://www.montevallo.edu/organization/safe-zone/] 
 * Provided counseling and support for a base of 2,700 staff and students who were in a state of crisis, critical mental health care, and served as overnight Emergency Duty Team Member.
 * Adhered to all FERPA, HIPAA, ACA guidelines including confidentiality, current licensure, and current liability insurance as a counselor.
 * Certified as Licensed Professional Counselor (LPC) and nationally credentialed National Certified Counselor (NCC)
