@@ -1,7 +1,7 @@
 # Professional Experience
 * * *
-
-
+>
+>
 ## Skills
 * * *
 * Tableau, Big Query, Looker
@@ -152,9 +152,12 @@ Reported to Executive Director of HMTC
 ## Education
 * * *
 
-### 2020 - Expected Graduation Date: 7/2021
+### 2020 - Expected Graduation 7/2021
 ### Career Foundry
-Data Analytics Professional - 420 hour/8 month project-based curriculum
+Data Analytics Professional - 8 month | 420 hour project-based curriculum and training program
+
+### 2019 
+Full Stack Software Developer  - Covalence Academy (Birmingham, AL) - Entry Level
 
 ### 2010
 ### University of North Alabama
@@ -171,8 +174,6 @@ Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
 ## Certifications
 * * *
 
-### 2019 
-Full Stack Software Developer  - Covalence Academy (Birmingham, AL) - Entry Level
 ### 2010
 Licensed Professional Counselor - National Board for Certified Counselors
 ### 2005
