@@ -18,8 +18,9 @@ end
 ### Customer Success Engineer | 02/2019 until present
 ### Pantheon Platform
 
-Provide technical guidance, site reliability, and platform information to Pantheon customers to include: 
-Troubleshoots and problem solves by analyzing php/nginx error log files, php, js, css, html codebase structure/contents, data visuals in New Relic and identifying potential points of failure that might also include sql database for areas of optimization and improvement. 
+Reporting to Customer Success Manager and Director of Support.
+* Provide technical guidance, site reliability, and platform information to Pantheon customers to include: 
+* Troubleshoots and problem solves by analyzing php/nginx error log files, php, js, css, html codebase structure/contents, data visuals in New Relic and identifying potential points of failure that might also include sql database for areas of optimization and improvement. 
 * Additional Duties to include:
 * Analyze traffic data using sql query and Excel to review site traffic, identify problem areas such as identify bot/unwanted traffic mitigation techniques.
 * Host "Intro to Pantheon" webinars for customers - online format.
@@ -34,7 +35,7 @@ Troubleshoots and problem solves by analyzing php/nginx error log files, php, js
 ### Program Manager | 5/2017 until 01/2019
 ### Community Food Bank of Central Alabama - partner of United Way and Feeding America
 
-Reported directly to the Executive Director as the food donation coordinator completing multiple duties as needed to advance CFBCA's organizational mission.
+Reported to the Executive Director as the food donation coordinator completing multiple duties as needed to advance CFBCA's organizational mission.
 * Created web design and promotional materials for the donation program; designs a web platform for webinar trainings to donors and distributors
 * Analyzed raw database to create a metric-tracking system,  create infographic designs and visual aid to meet the needs of: grant writing, performance trend tracking, funding requests from private and corporate donors, and monthly reporting to the Board of Directors 
 * Served as project manager to 130 corporate food donor agencies and 67 partner food distributors; Responsible for the coordination of 6.5 million pounds of rescued food annually to the food bank
@@ -91,22 +92,27 @@ Reported to Dean of Student Services
 ### UAB Hospital
 
 Reported to UAB Hospital Manager of Social Work Programs and the University of North Alabama Supervising Instructor
-* Provided mental health 1:1  and group counseling sessions at the Psychiatric Unit at UAB Hospital; collaborated with psychiatrists, MD, social workers, and nursing staff to assess patients and provide mental health care and crisis Developed proficiency in UAB Reporting Software and Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment
-Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines as required by the American Hospital Association
-Conducted research and provided speaking presentations on numerous counseling topics at the annual Alabama State Conference for Counselors
-Served as an Alabama Counseling Association Junior Board Member
+* Provided mental health 1:1  and group counseling sessions at the Psychiatric Unit at UAB Hospital; collaborated with psychiatrists, MD, social workers, and nursing staff to assess patients and provide mental health care and crisis 
+* Developed proficiency in UAB Reporting Software and Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment
+* Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines as required by the American Hospital Association
+* Conducted research and provided speaking presentations on numerous counseling topics at the annual Alabama State Conference for Counselors
+* Served as an Alabama Counseling Association Junior Board Member
 
 
 ### Substance Abuse Counselor | 08/2007 til 08/2010
 ### Huntsville Metro Treatment Center
 
 Reported to Executive Director of HMTC
-Managed 45 person caseload for the treatment of substance abuse and addiction; provided drug screenings, community referrals, 1:1 and group counseling
-Developed proficiency in Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment, present educational materials, and collaborate with treatment team
-Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines 
+* Managed 45 person caseload for the treatment of substance abuse and addiction; provided drug screenings, community referrals, 1:1 and group counseling
+* Developed proficiency in Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment, present educational materials, and collaborate with treatment team
+* Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines 
 
 
 ## Education
+
+### 2020 - Expected Graduation Date: 7/2021
+### Career Foundry
+Data Analytics Professional - 420 hour/8 month project-based curriculum
 
 ### 2010
 ### University of North Alabama
