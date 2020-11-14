@@ -141,7 +141,8 @@ Secondary Education - Social Sciences - Teacher Certification with Alabama Depar
 * Back-end Web Development
 * Sql/database query, Nodejs
 * CSS, Javascript, Php, HTML, Python
-* Website Design
+* Website Design - Wordpress, Drupal
+* Project and Strategic Management
 * Github
 * Excel, Publisher, Powerpoint, Microsoft Word
 
