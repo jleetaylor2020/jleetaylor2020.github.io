@@ -14,7 +14,7 @@ end
 ```
 # Experience
 
-### Customer Success Engineer from 2019-02 til present
+### Customer Success Engineer from 02/2019 until present
 ### Pantheon Platform
 
 Provide technical guidance, site reliability, and platform information to Pantheon customers to include: 
@@ -30,7 +30,7 @@ Provide Drupal/Wordpress CMS expertise to new and existing customer groups.
 Key liaison between clients and internal teams, with the aim of enhancing customer experience so that everyone gets the most out of Pantheon's
 
 
-### Program Manager from 2017-05 til 2019-01
+### Program Manager from 05/2017 until 01/2019
 ### Community Food Bank of Central Alabama - partner of United Way and Feeding America
 
 Reported directly to the Executive Director as the food donation coordinator completing multiple duties as needed to advance CFBCA's organizational mission.
@@ -47,7 +47,7 @@ Team co-lead grant writer and award winner to $65,000 in grant funding via Walma
 Certified as National Diabetes Prevention Program Lifestyle Coach (NDPP)
 
 
-### Retail Sales Technology Consultant from 2016-04 til 2017-05
+### Retail Sales Technology Consultant from 04/2016 until 05/2017
 ### AT&T Inc.
 
 Reported to Store Manager
@@ -57,7 +57,7 @@ Strategized to effectively and quickly learn newest technologies in VOIP/LAN/ NE
 Provided excellent customer support and superb customer retention rate
 
 
-### Corporate Account Executive - Print Advertising Sales from 2014-09 til 2016-03
+### Corporate Account Executive - Print Advertising Sales from 09/2014 until 03/2016
 ### MSPARK
 
 Reported to Director of Corporate Accounts
@@ -67,7 +67,7 @@ Expanded technology skillset in areas of Predictive Data Analysis, Wordpress and
 Met Weekly Print Deadlines as Required
 
 
-### Telecommunications Call Center Support/Sales Consultant from 2013-01 til 2014-08
+### Telecommunications Call Center Support/Sales Consultant from 01/2013 until 08/2014
 ### AT&T Inc.
 
 Reported to Call Center Manager
@@ -76,7 +76,7 @@ Provided multi-wrap-around customer support  services including: Technical Suppo
 Completed 6 weeks of paid IT Training, Customer Relations, and Sales Training
 
 
-### Program Manager and College Counselor from 2010-08 til 2013-01
+### Program Manager and College Counselor from 08/2010 until 01/2013
 ### University of Montevallo
 
 Reported to Dean of Student Services
@@ -87,8 +87,7 @@ Adhered to all FERPA, HIPAA, ACA guidelines including confidentiality, current l
 Certified as Licensed Professional Counselor (LPC) and nationally credentialed National Certified Counselor (NCC)
 
 
-### 2009-01 til 2010-08
-### Master's Program Internship
+### Master's Program Internship from 01/2009 until 08/2010
 ### UAB Hospital
 
 Reported to UAB Hospital Manager of Social Work Programs and the University of North Alabama Supervising Instructor
@@ -98,8 +97,8 @@ Performed documentation of counseling services and adhered to HIPPAA Confidentia
 Conducted research and provided speaking presentations on numerous counseling topics at the annual Alabama State Conference for Counselors
 Served as an Alabama Counseling Association Junior Board Member
 
-### 2007-08 til 2010-08
-### Substance Abuse Counselor
+
+### Substance Abuse Counselor from 08/2007 til 08/2010
 ### Huntsville Metro Treatment Center
 
 Reported to Executive Director of HMTC
@@ -112,12 +111,11 @@ Performed documentation of counseling services and adhered to HIPPAA Confidentia
 
 ### 2010
 ### University of North Alabama
-
 MA - Mental Health Community Counselor - License # C1763A
 Certified Licensed Professional Counselor (LPC) and National Certified Counselor (NCC) 
-2005
-University of North Alabama
 
+### 2005
+### University of North Alabama
 BS - Secondary Education - Concentration: Social Sciences (6-12th Grade)
 Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
 Certificates
