@@ -3,7 +3,6 @@
 >
 >
 ## Skills
-* * *
 * Tableau, Big Query, Looker
 * Back-end Web Development
 * Sql/database query, Nodejs
@@ -16,7 +15,6 @@
 >
 >
 ## Past Positions Held
-* * *
 - Customer Success Engineer (IT support)
 - Program Manager
 - Retail Sales Technology Consultant - Telecommunications
@@ -161,8 +159,8 @@ Reported to Executive Director of HMTC
 
 
 
-
-
+>
+>
 ## Education
 * * *
 
@@ -183,8 +181,8 @@ Certified Licensed Professional Counselor (LPC) and National Certified Counselor
 BS - Secondary Education - Concentration: Social Sciences (6-12th Grade)
 Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
 
-
-
+>
+>
 ## Certifications
 * * *
 
@@ -192,4 +190,23 @@ Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
 Licensed Professional Counselor - National Board for Certified Counselors
 ### 2005
 Secondary Education - Social Sciences - Teacher Certification with Alabama Department of Education
+
+
+ <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
+
+        {{ content }}
+
+      </section>
+
+    </div>
+
 
