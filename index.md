@@ -127,7 +127,7 @@ Certificates
 
 ## Certifications
 
-### 2019
+### 2019 - Partial
 Full Stack Software Developer  - Covalence Academy (Birmingham, AL)
 
 ### 2010
