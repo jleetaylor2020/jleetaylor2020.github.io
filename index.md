@@ -25,9 +25,6 @@
 - Substance Abuse Counselor 
 >
 >
-## Professional Work Experience
->
->
 ### Customer Success Engineer 
 ### Pantheon Platform
 02|2019 til present
