@@ -138,6 +138,7 @@ Secondary Education - Social Sciences - Teacher Certification with Alabama Depar
 * CSS, Javascript, Php, HTML, Python
 * Website Design - Wordpress, Drupal
 * Project and Strategic Management
+* SEO, Google Analytics
 * Github
 * Excel, Publisher, Powerpoint, Microsoft Word
 
