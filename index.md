@@ -1,6 +1,21 @@
 # Professional Experience
 * * *
 
+
+## Skills
+* * *
+* Tableau, Big Query, Looker
+* Back-end Web Development
+* Sql/database query, Nodejs
+* CSS, Javascript, Php, HTML, Python
+* Website Design - Wordpress, Drupal
+* Project and Strategic Management
+* SEO, Google Analytics
+* Github
+* Excel, Publisher, Powerpoint, Microsoft Word
+
+
+
 ### Customer Success Engineer 
 ### Pantheon Platform
 02|2019 til present
@@ -150,21 +165,6 @@ Certified Licensed Professional Counselor (LPC) and National Certified Counselor
 ### University of North Alabama
 BS - Secondary Education - Concentration: Social Sciences (6-12th Grade)
 Certified: Teacher Education Certificate - Highly Qualified Teacher (Expired)
-
-
-
-
-## Skills
-* * *
-* Tableau, Big Query, Looker
-* Back-end Web Development
-* Sql/database query, Nodejs
-* CSS, Javascript, Php, HTML, Python
-* Website Design - Wordpress, Drupal
-* Project and Strategic Management
-* SEO, Google Analytics
-* Github
-* Excel, Publisher, Powerpoint, Microsoft Word
 
 
 
