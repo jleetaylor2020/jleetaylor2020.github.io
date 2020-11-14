@@ -127,11 +127,21 @@ Certificates
 
 ## Certifications
 
-### 2019 - Partial
-Full Stack Software Developer  - Covalence Academy (Birmingham, AL)
+### 2019 
+Full Stack Software Developer  - Covalence Academy (Birmingham, AL) - Partial Completion
 
 ### 2010
 Licensed Professional Counselor - National Board for Certified Counselors
 
 ### 2005
 Secondary Education - Social Sciences - Teacher Certification with Alabama Department of Education
+
+## Skills
+* Tableau, Big Query, Looker
+* Back-end Web Development
+* Sql/database query, Nodejs
+* CSS, Javascript, Php, HTML, Python
+* Website Design
+* Github
+* Excel, Publisher, Powerpoint, Microsoft Word
+
