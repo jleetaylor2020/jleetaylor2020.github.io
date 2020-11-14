@@ -3,7 +3,7 @@
 * * *
 
 ### Customer Success Engineer 
-02/2019 until present
+02/2019 - present
 ### Pantheon Platform
 
 Reporting to Customer Success Manager and Director of Support.
@@ -21,7 +21,7 @@ Reporting to Customer Success Manager and Director of Support.
 
 
 ### Program Manager 
-5/2017 until 01/2019
+5/2017 - 01/2019
 ### Community Food Bank of Central Alabama - partner of United Way and Feeding America
 
 Reported to the Executive Director as the food donation coordinator completing multiple duties as needed to advance CFBCA's organizational mission.
@@ -38,7 +38,7 @@ Reported to the Executive Director as the food donation coordinator completing m
 
 
 ### Retail Sales Technology Consultant 
-04/2016 until 05/2017
+04/2016 - 05/2017
 ### AT&T Inc.
 
 Reported to Store Manager
@@ -49,7 +49,7 @@ Reported to Store Manager
 
 
 ### Corporate Account Executive - Print Advertising Sales 
-09/2014 until 03/2016
+09/2014 - 03/2016
 ### MSPARK
 
 Reported to Director of Corporate Accounts
@@ -60,7 +60,7 @@ Reported to Director of Corporate Accounts
 
 
 ### Telecommunications Call Center Support/Sales Consultant 
-01/2013 until 08/2014
+01/2013 - 08/2014
 ### AT&T Inc.
 
 Reported to Call Center Manager
@@ -70,7 +70,7 @@ Reported to Call Center Manager
 
 
 ### Program Manager and College Counselor 
-08/2010 until 01/2013
+08/2010 - 01/2013
 ### University of Montevallo
 
 Reported to Dean of Student Services
@@ -82,7 +82,7 @@ Reported to Dean of Student Services
 
 
 ### Master's Program Internship 
-01/2009 until 08/2010
+01/2009 - 08/2010
 ### UAB Hospital
 
 Reported to UAB Hospital Manager of Social Work Programs and the University of North Alabama Supervising Instructor
@@ -94,7 +94,7 @@ Reported to UAB Hospital Manager of Social Work Programs and the University of N
 
 
 ### Substance Abuse Counselor 
-08/2007 til 08/2010
+08/2007 - 08/2010
 ### Huntsville Metro Treatment Center
 
 Reported to Executive Director of HMTC
