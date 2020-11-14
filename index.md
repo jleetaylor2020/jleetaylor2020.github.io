@@ -44,7 +44,7 @@ Reporting to Customer Success Manager and Director of Support.
 
 
 ### Program Manager 
-### Community Food Bank of Central Alabama - partner of United Way and Feeding America
+### Community Food Bank of Central Alabama - (United Way and Feeding America)
 5|2017 til 01|2019
 
 Reported to the Executive Director as the food donation coordinator completing multiple duties as needed to advance CFBCA's organizational mission.
