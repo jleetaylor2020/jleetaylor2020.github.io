@@ -12,11 +12,11 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-### Experience
-# 2019-02 til present
-# Customer Success Engineer
+# Experience
+## 2019-02 til present
+## Customer Success Engineer
 
-# Pantheon Platform
+## Pantheon Platform
 
 Provide technical guidance, site reliability, and platform information to Pantheon customers to include: 
 Troubleshoots and problem solves by analyzing php/nginx error log files, php, js, css, html codebase structure/contents, data visuals in New Relic and identifying potential points of failure that might also include sql database for areas of optimization and improvement. 
