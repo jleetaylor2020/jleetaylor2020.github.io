@@ -17,11 +17,11 @@
 >
 >
 ## Positions Held
-- Customer Success Engineer (IT support)
+- Customer Success Engineer (IT support Webops Platform)
 - Program Manager
-- Retail Sales Technology Consultant > IT & Telecommunications
+- Retail Sales Technology Consultant (IT & Telecommunications)
 - Corporate Account Executive - Print & Digital Advertising Sales 
-- Call Center Support/Sales Consultant > IT & Telecommunications
+- Call Center Support/Sales Consultant (IT & Telecommunications)
 - Program Manager and College Counselor 
 - Substance Abuse Counselor 
 
