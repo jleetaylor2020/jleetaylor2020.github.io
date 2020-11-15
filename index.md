@@ -1,9 +1,7 @@
- 
-# Experience
 * * *
 >
 >
-Skills | 
+## Skills | 
 ------------ | 
 Tableau, Big Query, Looker | 
 Back-end Web Development |
@@ -14,8 +12,6 @@ Project and Strategic Management |
 SEO, Google Analytics |
 Github, Command line, local web development |
 Excel, Publisher, Powerpoint, Microsoft Word |
-
------------- | 
 >
 >
 ## Positions Held
@@ -27,7 +23,7 @@ Excel, Publisher, Powerpoint, Microsoft Word |
 - Program Manager and College Counselor 
 - Substance Abuse Counselor 
 
-
+## Experience
 ### Customer Success Engineer 
 ### Pantheon Platform
 02|2019 til present
