@@ -1,17 +1,17 @@
 * * *
 >
 >
-## Skills | 
------------- | 
-Tableau, Big Query, Looker | 
-Back-end Web Development |
-Sql/database query, Nodejs |
-CSS, Javascript, Php, HTML, Python |
-Website Design - Wordpress, Drupal |
-Project and Strategic Management |
-SEO, Google Analytics |
-Github, Command line, local web development |
-Excel, Publisher, Powerpoint, Microsoft Word |
+## Skills 
+- Tableau, Big Query, Looker 
+- Data Analytics
+- Back-end Web Development 
+- Sql/database query, Nodejs 
+- CSS, Javascript, Php, HTML, Python 
+- Website Design - Wordpress, Drupal 
+- Project and Strategic Management 
+- SEO, Google Analytics 
+- Github, Command line, local web development 
+- Excel, Publisher, Powerpoint, Microsoft Word 
 >
 >
 ## Positions Held
