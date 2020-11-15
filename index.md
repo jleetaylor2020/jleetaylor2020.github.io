@@ -49,7 +49,7 @@ Report to Customer Success Manager and Director of Support.
 ### Community Food Bank of Central Alabama - (United Way and Feeding America)
 5|2017 til 01|2019
 
-Report to the Executive Director as the food donation coordinator completing multiple roles to advance CFBCA's organizational mission.
+Report to the Executive Director 
 * Created web design and promotional materials for the donation program; designs a web platform for webinar trainings to donors and distributors
 * Analyzed raw database to create a metric-tracking system,  create infographic designs and visual aid to meet the needs of: grant writing, performance trend tracking, funding requests from private and corporate donors, and monthly reporting to the Board of Directors 
 * Example: https://sites.google.com/view/enabled-agency-portal/home 
@@ -114,7 +114,7 @@ Report to Dean of Student Services
 ### UAB Hospital
 01|2009 til 08|2010
 
-Report to UAB Hospital Manager of Social Work Programs and the University of North Alabama Supervising Instructor
+Report to UAB Hospital Manager of Social Work Programs and  University of North Alabama Supervising Instructor
 * Provided mental health 1:1  and group counseling sessions at the Psychiatric Unit at UAB Hospital; collaborated with psychiatrists, MD, social workers, and nursing staff to assess patients and provide mental health care and crisis 
 * Developed proficiency in UAB Reporting Software and Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment
 * Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines as required by the American Hospital Association
