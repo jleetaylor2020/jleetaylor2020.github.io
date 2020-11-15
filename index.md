@@ -1,7 +1,7 @@
 * * *
 >
 >
-## Skills - Project and Strategic Management 
+## Skills
 - Project and Strategic Management 
 - Team Leadership 
 - Customer Support and Soft Skills
