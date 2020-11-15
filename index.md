@@ -1,14 +1,16 @@
 * * *
 >
 >
-## Skills 
+## Skills - Project and Strategic Management 
+- Project and Strategic Management 
+- Team Leadership 
+- Customer Support and Soft Skills
 - Tableau, Big Query, Looker 
 - Data Analytics
 - Back-end Web Development 
 - Sql/database query, Nodejs 
 - CSS, Javascript, Php, HTML, Python 
 - Website Design - Wordpress, Drupal 
-- Project and Strategic Management 
 - SEO, Google Analytics 
 - Github, Command line, local web development 
 - Excel, Publisher, Powerpoint, Microsoft Word 
@@ -23,12 +25,13 @@
 - Program Manager and College Counselor 
 - Substance Abuse Counselor 
 
-## Experience
+* * *
+## Professional Experience
 ### Customer Success Engineer 
 ### Pantheon Platform
 02|2019 til present
 
-Reporting to Customer Success Manager and Director of Support.
+Report to Customer Success Manager and Director of Support.
 * Provide technical guidance, site reliability, and platform information to Pantheon customers to include: 
 * Troubleshoots and problem solves by analyzing php/nginx error log files, php, js, css, html codebase structure/contents, data visuals in New Relic and identifying potential points of failure that might also include sql database for areas of optimization and improvement. 
 * Additional Duties to include:
@@ -46,7 +49,7 @@ Reporting to Customer Success Manager and Director of Support.
 ### Community Food Bank of Central Alabama - (United Way and Feeding America)
 5|2017 til 01|2019
 
-Reported to the Executive Director as the food donation coordinator completing multiple roles to advance CFBCA's organizational mission.
+Report to the Executive Director as the food donation coordinator completing multiple roles to advance CFBCA's organizational mission.
 * Created web design and promotional materials for the donation program; designs a web platform for webinar trainings to donors and distributors
 * Analyzed raw database to create a metric-tracking system,  create infographic designs and visual aid to meet the needs of: grant writing, performance trend tracking, funding requests from private and corporate donors, and monthly reporting to the Board of Directors 
 * Example: https://sites.google.com/view/enabled-agency-portal/home 
@@ -65,7 +68,7 @@ Reported to the Executive Director as the food donation coordinator completing m
 ### AT&T Inc.
 04|2016 till 05|2017
 
-Reported to Store Manager
+Report to AT&T Store Manager
 * Recognition as a top sales leader ranking in the top 5% of sales in the Southeast Region (2016-2017)
 * Forumalated key sales strategies to meet KPI and exceeded sales goals by 200% for continual 10 month period both in business and individual sectors
 * Strategized to effectively and quickly learn newest technologies in VOIP/LAN/ NETWORK SETUP/Wireless Home Security and Automation/MOBILE PLATFORMS and Repairs
@@ -77,7 +80,7 @@ Reported to Store Manager
 ### MSPARK
 09|2014 til 03|2016
 
-Reported to Director of Corporate Accounts
+Report to Director of Corporate Accounts
 * Directed business development, product development, and strategic partnerships leading business analytics to offer cost saving techniques in areas of marketing, digital & printed coupons 
 * Managed creative print marketing campaigns in Southeast region for corporations including: Papa Johns, Ruby Tuesdays, and Olive Garden
 * Expanded technology skillset in areas of Predictive Data Analysis, Wordpress and Graphic Designs, Direct Mail * Marketing Campaigns, Microsoft Excel tools capable of data tracking and analyzing P&L statements related to the marketing campaign efforts
@@ -89,7 +92,7 @@ Reported to Director of Corporate Accounts
 ### AT&T Inc.
 0|2013 til 08|2014
 
-Reported to Call Center Manager
+Report to Call Center Manager
 * Advanced technology training in LAN/WAP/ETHERNET troubleshooting/ VOIP/LAN NETWORK INTERNET SETUP/Wireless Home Security and Automation/MOBILE  APP PLATFORMS, troubleshoots, and repairs
 * Provided multi-wrap-around customer support  services including: Technical Support (Software/Hardware/WAP/LAN/WLAN/MOBILE/VOIP), Customer billing questions, Strategize to meet/exceed KPI and sales targets, and proivded Retail Sales on a national level call center based in Birmingham, AL.
 * Completed 6 weeks of paid IT Training, Customer Relations, and Sales Training
@@ -99,7 +102,7 @@ Reported to Call Center Manager
 ### University of Montevallo
 08|2010 til 01|2013
 
-Reported to Dean of Student Services
+Report to Dean of Student Services
 * Designed and coordinated new campus wide initiatives for student crisis care and diversity training 
 * Designed safe zone website, and created new training materials for launch of a new program called Safe Zone; Included: manual design, logo design, mission statement and board member recruitment, social media outreach (Facebook, Twitter, FalconLink)                                                 * Example: https://www.montevallo.edu/organization/safe-zone/
 * Provided counseling and support for a base of 2,700 staff and students who were in a state of crisis, critical mental health care, and served as overnight Emergency Duty Team Member.
@@ -111,7 +114,7 @@ Reported to Dean of Student Services
 ### UAB Hospital
 01|2009 til 08|2010
 
-Reported to UAB Hospital Manager of Social Work Programs and the University of North Alabama Supervising Instructor
+Report to UAB Hospital Manager of Social Work Programs and the University of North Alabama Supervising Instructor
 * Provided mental health 1:1  and group counseling sessions at the Psychiatric Unit at UAB Hospital; collaborated with psychiatrists, MD, social workers, and nursing staff to assess patients and provide mental health care and crisis 
 * Developed proficiency in UAB Reporting Software and Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment
 * Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines as required by the American Hospital Association
@@ -124,7 +127,7 @@ Reported to UAB Hospital Manager of Social Work Programs and the University of N
 ### Huntsville Metro Treatment Center
 08|2007 til 08|2010
 
-Reported to Executive Director of HMTC
+Report to Executive Director of HMTC
 * Managed 45 person caseload for the treatment of substance abuse and addiction; provided drug screenings, community referrals, 1:1 and group counseling
 * Developed proficiency in Microsoft Word, Excel, Powerpoint in order to track and document client progress and treatment, present educational materials, and collaborate with treatment team
 * Performed documentation of counseling services and adhered to HIPPAA Confidentiality Guidelines 
