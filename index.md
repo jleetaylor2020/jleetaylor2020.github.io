@@ -3,16 +3,19 @@
 * * *
 >
 >
-## Skills
-* Tableau, Big Query, Looker
-* Back-end Web Development
-* Sql/database query, Nodejs
-* CSS, Javascript, Php, HTML, Python
-* Website Design - Wordpress, Drupal
-* Project and Strategic Management
-* SEO, Google Analytics
-* Github
-* Excel, Publisher, Powerpoint, Microsoft Word
+Skills | 
+------------ | 
+Tableau, Big Query, Looker | 
+Back-end Web Development |
+Sql/database query, Nodejs |
+CSS, Javascript, Php, HTML, Python |
+Website Design - Wordpress, Drupal |
+Project and Strategic Management |
+SEO, Google Analytics |
+Github, Command line, local web development |
+Excel, Publisher, Powerpoint, Microsoft Word |
+
+------------ | 
 >
 >
 ## Positions Held
@@ -50,7 +53,7 @@ Reporting to Customer Success Manager and Director of Support.
 Reported to the Executive Director as the food donation coordinator completing multiple roles to advance CFBCA's organizational mission.
 * Created web design and promotional materials for the donation program; designs a web platform for webinar trainings to donors and distributors
 * Analyzed raw database to create a metric-tracking system,  create infographic designs and visual aid to meet the needs of: grant writing, performance trend tracking, funding requests from private and corporate donors, and monthly reporting to the Board of Directors 
-See an example: <a href="{{ https://sites.google.com/view/enabled-agency-portal/home}}">
+* Example: https://sites.google.com/view/enabled-agency-portal/home 
 * Served as project manager to 130 corporate food donor agencies and 67 partner food distributors; Responsible for the coordination of 6.5 million pounds of rescued food annually to the food bank
 * Provided general IT support to office staff as requested to include: tech needs assessment, database backup and support for MealConnect, online webinar training to distributors, software installation
 * Team co-lead grant writer and award winner to $65,000 in grant funding via Walmart Inc , Publix, and Feeding America 
@@ -102,7 +105,7 @@ Reported to Call Center Manager
 
 Reported to Dean of Student Services
 * Designed and coordinated new campus wide initiatives for student crisis care and diversity training 
-* Designed safe zone website, and created new training materials for launch of a new program called Safe Zone; Included: manual design, logo design, mission statement and board member recruitment, social media outreach (Facebook, Twitter, FalconLink)                                                 Visit website: <a href="{{ https://www.montevallo.edu/organization/safe-zone/ }}">
+* Designed safe zone website, and created new training materials for launch of a new program called Safe Zone; Included: manual design, logo design, mission statement and board member recruitment, social media outreach (Facebook, Twitter, FalconLink)                                                 * Example: https://www.montevallo.edu/organization/safe-zone/
 * Provided counseling and support for a base of 2,700 staff and students who were in a state of crisis, critical mental health care, and served as overnight Emergency Duty Team Member.
 * Adhered to all FERPA, HIPAA, ACA guidelines including confidentiality, current licensure, and current liability insurance as a counselor.
 * Certified as Licensed Professional Counselor (LPC) and nationally credentialed National Certified Counselor (NCC)
