@@ -35,7 +35,7 @@ Report to Customer Success Manager and Director of Support.
 * Provide technical guidance, site reliability, and platform information to Pantheon customers to include: 
 * Troubleshoots and problem solves by analyzing php/nginx error log files, php, js, css, html codebase structure/contents, data visuals in New Relic and identifying potential points of failure that might also include sql database for areas of optimization and improvement. 
 * Additional Duties to include:
-* Analyze traffic data using sql query and Excel to review site traffic, identify problem areas such as identify bot/unwanted traffic mitigation techniques.
+* Analyze traffic data  Fastly CDN and nginx-access.logs using big query, scripting in standard sql, command line tools, and Excel to review site traffic, identify problem areas such as identify bot/unwanted traffic mitigation techniques.
 * Host "Intro to Pantheon" webinars for customers - online format.
 * Work with our Engineering team to improve platform usability and stability.
 * Contribute to technical documentation
