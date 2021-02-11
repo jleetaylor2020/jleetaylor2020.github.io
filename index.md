@@ -70,7 +70,7 @@ Report to the Executive Director
 
 Report to AT&T Store Manager
 * Recognition as a top sales leader ranking in the top 5% of sales in the Southeast Region (2016-2017)
-* Forumalated key sales strategies to meet KPI and exceeded sales goals by 200% for continual 10 month period both in business and individual sectors
+* Formulated key sales strategies to meet KPI and exceeded sales goals by 200% for continual 10 month period both in business and individual sectors
 * Strategized to effectively and quickly learn newest technologies in VOIP/LAN/ NETWORK SETUP/Wireless Home Security and Automation/MOBILE PLATFORMS and Repairs
 * Provided excellent customer support and superb customer retention rate
 
